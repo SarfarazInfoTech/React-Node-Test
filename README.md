@@ -34,7 +34,7 @@ Implemented the following RESTful API endpoints:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SarfarazInfoTech/React-Node-Test.git
-   cd project-directory
+   cd React-Node-Test
    ```
 
 2. Install dependencies for the backend:
